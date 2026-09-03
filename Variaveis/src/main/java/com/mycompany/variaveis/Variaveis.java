@@ -25,7 +25,7 @@ public class Variaveis {
      System.out.println("Ola");
      System.out.println("eu sou um progamador");
      
-     System.out.print("eu ja sei prog");
+     System.out.print("eu ja sei progamar");
      System.out.print(",eu nao amo java");
      
      //CRIAÇAO DE VARIAVEIS
@@ -34,8 +34,8 @@ public class Variaveis {
      float peso = 60; //valor decimal pequeno
      String nome = "Arthur borges"; //valor logico
      boolean casada = false;// true - verdadeiro , false - falso
-     System.out.println("Ola "+nome);
-     System.out.println("voce tem "+idade+"anos de idade");
+     System.out.println(" Ola "+nome);
+     System.out.println("voce tem "+idade+" anos de idade");
     
 }//fim da main
 }
